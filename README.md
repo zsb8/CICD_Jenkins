@@ -1,7 +1,7 @@
 
 
 # Project Name: Jenkins CICD Pipeline
-This project setuped a Jenkins CICD pipeline, which will pull the source code from github and re-deploy the docker container in your local host.
+My project setuped a Jenkins CICD pipeline, which pulled the source code from github and re-deployed the docker container in local host.
 
 # Project Goal
 Setup/configure Jenkins as CICD pipeline. Familiarize with Jenkinsfile.
