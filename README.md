@@ -26,7 +26,7 @@ docker-compose up -d
 ```
 ![image](https://user-images.githubusercontent.com/75282285/197062611-663e9413-4f07-4da2-b43b-e573ae691240.png)
 
-2. Open your **browser** and go to the Jenkins UI website (http://192.168.1.164). If you install the Jenkins in your local host, you can go [here](http://127.0.0.1). Login to the Jenkins with the username/password defined in your `docker-compose.yaml`.     
+2. Open my **browser** and go to the Jenkins UI website (http://192.168.1.164). If install the Jenkins in local host, you can go [here](http://127.0.0.1). Login to the Jenkins with the username/password defined in your `docker-compose.yaml`.     
 ![image](https://user-images.githubusercontent.com/75282285/197063165-7085353f-183d-499a-b66a-cb317462cea2.png)
 
 
