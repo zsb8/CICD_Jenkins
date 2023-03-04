@@ -1,4 +1,5 @@
 
+![1677953660422](https://user-images.githubusercontent.com/75282285/222922507-253adba3-1a58-43bf-9eb3-dbdfb82a6b77.jpeg)
 
 # Project Name: Jenkins CICD Pipeline
 My project setuped a Jenkins CICD pipeline, which pulled the source code from github and re-deployed the docker container in local host.
